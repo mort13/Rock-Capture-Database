@@ -1,0 +1,162 @@
+{
+  "session_id": "451ae808",
+  "started_at": "2026-03-28T21:33:29",
+  "tool_version": "rock_capture_cnn_0.3",
+  "source": {
+    "user": "Mort13",
+    "org": "RR"
+  },
+  "captures": [
+    {
+      "timestamp": "2026-03-28T21:36:27",
+      "capture_id": "6e396d38-6382-4154-9525-33bc1c6efcf9",
+      "cluster_id": "99f08b54-4612-4e07-bdc1-4dff0448d991",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "riccite",
+          "confidence": 0.4909
+        },
+        "mass": {
+          "value": "9625",
+          "confidence": 0.9749
+        },
+        "resistance": {
+          "value": "10",
+          "confidence": 0.6931
+        },
+        "instability_int": {
+          "value": "490",
+          "confidence": 0.0
+        },
+        "instability_dec": {
+          "value": "82",
+          "confidence": 0.0
+        },
+        "volume_int": {
+          "value": "27",
+          "confidence": 0.9995
+        },
+        "volume_dec": {
+          "value": "82",
+          "confidence": 0.9833
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.5242
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9911
+            },
+            "amount_dec": {
+              "value": "06",
+              "confidence": 0.986
+            },
+            "quality": {
+              "value": "611",
+              "confidence": 0.9972
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.4892
+            },
+            "amount_int": {
+              "value": "66",
+              "confidence": 0.9957
+            },
+            "amount_dec": {
+              "value": "84",
+              "confidence": 0.9392
+            },
+            "quality": {
+              "value": "360",
+              "confidence": 0.9578
+            }
+          },
+          {
+            "name": {
+              "value": "taranite",
+              "confidence": 0.7334
+            },
+            "amount_int": {
+              "value": "9",
+              "confidence": 0.9837
+            },
+            "amount_dec": {
+              "value": "53",
+              "confidence": 0.9897
+            },
+            "quality": {
+              "value": "502",
+              "confidence": 0.9873
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8848
+            },
+            "amount_int": {
+              "value": "20",
+              "confidence": 0.9611
+            },
+            "amount_dec": {
+              "value": "54",
+              "confidence": 0.8301
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9767
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.3178
+            },
+            "amount_int": {
+              "value": "20",
+              "confidence": 0.9876
+            },
+            "amount_dec": {
+              "value": "54",
+              "confidence": 0.9754
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6207
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.3207
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6112
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

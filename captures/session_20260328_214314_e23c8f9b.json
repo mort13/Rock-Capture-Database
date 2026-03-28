@@ -1,0 +1,3484 @@
+{
+  "session_id": "e23c8f9b",
+  "started_at": "2026-03-28T21:43:14",
+  "tool_version": "rock_capture_cnn_0.3",
+  "source": {
+    "user": "Mort13",
+    "org": "RR"
+  },
+  "captures": [
+    {
+      "timestamp": "2026-03-28T21:44:18",
+      "capture_id": "05d1417a-5da9-4818-84cd-13e106bc2242",
+      "cluster_id": "c1e82f83-4cd5-4d84-8e10-5869c0dae162",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.7827
+        },
+        "mass": {
+          "value": "641",
+          "confidence": 0.9908
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.8819
+        },
+        "instability_int": {
+          "value": "3",
+          "confidence": 0.8369
+        },
+        "instability_dec": {
+          "value": "04",
+          "confidence": 0.862
+        },
+        "volume_int": {
+          "value": "1",
+          "confidence": 0.9971
+        },
+        "volume_dec": {
+          "value": "80",
+          "confidence": 0.8992
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.8223
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9497
+            },
+            "amount_dec": {
+              "value": "35",
+              "confidence": 0.9874
+            },
+            "quality": {
+              "value": "586",
+              "confidence": 0.9483
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.8589
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9824
+            },
+            "amount_dec": {
+              "value": "55",
+              "confidence": 0.9997
+            },
+            "quality": {
+              "value": "412",
+              "confidence": 0.9973
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.8765
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9901
+            },
+            "amount_dec": {
+              "value": "54",
+              "confidence": 0.9898
+            },
+            "quality": {
+              "value": "562",
+              "confidence": 0.9965
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9082
+            },
+            "amount_int": {
+              "value": "76",
+              "confidence": 0.9911
+            },
+            "amount_dec": {
+              "value": "57",
+              "confidence": 0.9975
+            },
+            "quality": {
+              "value": "270",
+              "confidence": 0.9962
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9754
+            },
+            "amount_int": {
+              "value": "76",
+              "confidence": 0.9943
+            },
+            "amount_dec": {
+              "value": "57",
+              "confidence": 0.9972
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.6869
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2796
+            },
+            "amount_int": {
+              "value": "10",
+              "confidence": 0.9963
+            },
+            "amount_dec": {
+              "value": "96",
+              "confidence": 0.9768
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6034
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:45:11",
+      "capture_id": "19b5a5ce-d0c2-47f5-a4d5-8c13cc9528ee",
+      "cluster_id": "c1e82f83-4cd5-4d84-8e10-5869c0dae162",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.924
+        },
+        "mass": {
+          "value": "13005",
+          "confidence": 0.9687
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9841
+        },
+        "instability_int": {
+          "value": "57",
+          "confidence": 0.9982
+        },
+        "instability_dec": {
+          "value": "61",
+          "confidence": 0.9035
+        },
+        "volume_int": {
+          "value": "43",
+          "confidence": 0.9964
+        },
+        "volume_dec": {
+          "value": "22",
+          "confidence": 0.9976
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.8028
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9996
+            },
+            "amount_dec": {
+              "value": "94",
+              "confidence": 0.9683
+            },
+            "quality": {
+              "value": "429",
+              "confidence": 0.9832
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.8125
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "448",
+              "confidence": 0.9524
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.8184
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9997
+            },
+            "amount_dec": {
+              "value": "77",
+              "confidence": 0.9989
+            },
+            "quality": {
+              "value": "668",
+              "confidence": 0.865
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.8612
+            },
+            "amount_int": {
+              "value": "53",
+              "confidence": 0.9993
+            },
+            "amount_dec": {
+              "value": "26",
+              "confidence": 0.9894
+            },
+            "quality": {
+              "value": "253",
+              "confidence": 0.93
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9265
+            },
+            "amount_int": {
+              "value": "53",
+              "confidence": 0.8358
+            },
+            "amount_dec": {
+              "value": "26",
+              "confidence": 0.9947
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.6748
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2559
+            },
+            "amount_int": {
+              "value": "33",
+              "confidence": 0.9826
+            },
+            "amount_dec": {
+              "value": "80",
+              "confidence": 0.9272
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6114
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:46:55",
+      "capture_id": "3b7003ce-a2ee-4803-a5b6-c330b941de64",
+      "cluster_id": "c1e82f83-4cd5-4d84-8e10-5869c0dae162",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.9329
+        },
+        "mass": {
+          "value": "1049",
+          "confidence": 0.9776
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9887
+        },
+        "instability_int": {
+          "value": "4",
+          "confidence": 0.7578
+        },
+        "instability_dec": {
+          "value": "37",
+          "confidence": 0.8766
+        },
+        "volume_int": {
+          "value": "3",
+          "confidence": 0.9992
+        },
+        "volume_dec": {
+          "value": "88",
+          "confidence": 0.7189
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.8366
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.994
+            },
+            "amount_dec": {
+              "value": "32",
+              "confidence": 0.9968
+            },
+            "quality": {
+              "value": "597",
+              "confidence": 0.9913
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.8346
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.8508
+            },
+            "amount_dec": {
+              "value": "90",
+              "confidence": 0.9504
+            },
+            "quality": {
+              "value": "487",
+              "confidence": 0.9814
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.802
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9997
+            },
+            "amount_dec": {
+              "value": "91",
+              "confidence": 0.9863
+            },
+            "quality": {
+              "value": "544",
+              "confidence": 0.9574
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.8107
+            },
+            "amount_int": {
+              "value": "39",
+              "confidence": 0.9732
+            },
+            "amount_dec": {
+              "value": "34",
+              "confidence": 0.9349
+            },
+            "quality": {
+              "value": "249",
+              "confidence": 0.9525
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9018
+            },
+            "amount_int": {
+              "value": "46",
+              "confidence": 0.988
+            },
+            "amount_dec": {
+              "value": "51",
+              "confidence": 0.9874
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.7618
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2498
+            },
+            "amount_int": {
+              "value": "46",
+              "confidence": 0.9962
+            },
+            "amount_dec": {
+              "value": "51",
+              "confidence": 0.9987
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6026
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:48:04",
+      "capture_id": "58f6f602-69e6-437b-b207-52b86e0d5a2c",
+      "cluster_id": "c1e82f83-4cd5-4d84-8e10-5869c0dae162",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.9769
+        },
+        "mass": {
+          "value": "14302",
+          "confidence": 0.9818
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9925
+        },
+        "instability_int": {
+          "value": "67",
+          "confidence": 0.9895
+        },
+        "instability_dec": {
+          "value": "18",
+          "confidence": 0.7377
+        },
+        "volume_int": {
+          "value": "40",
+          "confidence": 0.9797
+        },
+        "volume_dec": {
+          "value": "71",
+          "confidence": 0.9943
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.8278
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9995
+            },
+            "amount_dec": {
+              "value": "62",
+              "confidence": 0.9963
+            },
+            "quality": {
+              "value": "429",
+              "confidence": 0.9925
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.8836
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9938
+            },
+            "amount_dec": {
+              "value": "41",
+              "confidence": 0.9944
+            },
+            "quality": {
+              "value": "444",
+              "confidence": 0.9937
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.8968
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9996
+            },
+            "amount_dec": {
+              "value": "90",
+              "confidence": 0.9596
+            },
+            "quality": {
+              "value": "504",
+              "confidence": 0.9895
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.866
+            },
+            "amount_int": {
+              "value": "77",
+              "confidence": 0.9985
+            },
+            "amount_dec": {
+              "value": "49",
+              "confidence": 0.9786
+            },
+            "quality": {
+              "value": "248",
+              "confidence": 0.9794
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8958
+            },
+            "amount_int": {
+              "value": "12",
+              "confidence": 0.9989
+            },
+            "amount_dec": {
+              "value": "56",
+              "confidence": 0.9971
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.7878
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2458
+            },
+            "amount_int": {
+              "value": "12",
+              "confidence": 0.9988
+            },
+            "amount_dec": {
+              "value": "56",
+              "confidence": 0.9924
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6294
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:48:56",
+      "capture_id": "5822016a-6098-4166-aac3-9632861ecc5a",
+      "cluster_id": "c1e82f83-4cd5-4d84-8e10-5869c0dae162",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.8554
+        },
+        "mass": {
+          "value": "4596",
+          "confidence": 0.9935
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.8047
+        },
+        "instability_int": {
+          "value": "17",
+          "confidence": 0.9964
+        },
+        "instability_dec": {
+          "value": "84",
+          "confidence": 0.8214
+        },
+        "volume_int": {
+          "value": "15",
+          "confidence": 0.9973
+        },
+        "volume_dec": {
+          "value": "51",
+          "confidence": 0.9959
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.916
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9435
+            },
+            "amount_dec": {
+              "value": "32",
+              "confidence": 0.9959
+            },
+            "quality": {
+              "value": "466",
+              "confidence": 0.9937
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.937
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9993
+            },
+            "amount_dec": {
+              "value": "51",
+              "confidence": 0.9928
+            },
+            "quality": {
+              "value": "399",
+              "confidence": 0.9111
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9045
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9995
+            },
+            "amount_dec": {
+              "value": "03",
+              "confidence": 0.9439
+            },
+            "quality": {
+              "value": "795",
+              "confidence": 0.9279
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9447
+            },
+            "amount_int": {
+              "value": "53",
+              "confidence": 0.9939
+            },
+            "amount_dec": {
+              "value": "99",
+              "confidence": 0.9707
+            },
+            "quality": {
+              "value": "392",
+              "confidence": 0.9765
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9536
+            },
+            "amount_int": {
+              "value": "35",
+              "confidence": 0.9876
+            },
+            "amount_dec": {
+              "value": "12",
+              "confidence": 0.9978
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9054
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2711
+            },
+            "amount_int": {
+              "value": "35",
+              "confidence": 0.9972
+            },
+            "amount_dec": {
+              "value": "12",
+              "confidence": 0.999
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6015
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:51:14",
+      "capture_id": "0198117c-61ff-422d-805b-fb4f88a81607",
+      "cluster_id": "f2326e35-2bd8-4191-8dc8-f3de51af1e51",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "borase",
+          "confidence": 0.8345
+        },
+        "mass": {
+          "value": "489",
+          "confidence": 0.9446
+        },
+        "resistance": {
+          "value": "56",
+          "confidence": 0.7998
+        },
+        "instability_int": {
+          "value": "1",
+          "confidence": 0.9106
+        },
+        "instability_dec": {
+          "value": "64",
+          "confidence": 0.8139
+        },
+        "volume_int": {
+          "value": "0",
+          "confidence": 0.7387
+        },
+        "volume_dec": {
+          "value": "83",
+          "confidence": 0.6796
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.9917
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.8801
+            },
+            "amount_dec": {
+              "value": "29",
+              "confidence": 0.9849
+            },
+            "quality": {
+              "value": "446",
+              "confidence": 0.9884
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9767
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.6412
+            },
+            "amount_dec": {
+              "value": "50",
+              "confidence": 0.8657
+            },
+            "quality": {
+              "value": "483",
+              "confidence": 0.779
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9655
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9892
+            },
+            "amount_dec": {
+              "value": "42",
+              "confidence": 0.9869
+            },
+            "quality": {
+              "value": "681",
+              "confidence": 0.9547
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.8787
+            },
+            "amount_int": {
+              "value": "58",
+              "confidence": 0.9288
+            },
+            "amount_dec": {
+              "value": "49",
+              "confidence": 0.9817
+            },
+            "quality": {
+              "value": "256",
+              "confidence": 0.9941
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8687
+            },
+            "amount_int": {
+              "value": "29",
+              "confidence": 0.986
+            },
+            "amount_dec": {
+              "value": "21",
+              "confidence": 0.9991
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.762
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2201
+            },
+            "amount_int": {
+              "value": "29",
+              "confidence": 0.986
+            },
+            "amount_dec": {
+              "value": "21",
+              "confidence": 0.9991
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5848
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:52:25",
+      "capture_id": "00222a96-c278-4d6d-86af-ac9c3a5975ac",
+      "cluster_id": "f2326e35-2bd8-4191-8dc8-f3de51af1e51",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "borase",
+          "confidence": 0.9365
+        },
+        "mass": {
+          "value": "9413",
+          "confidence": 0.9918
+        },
+        "resistance": {
+          "value": "35",
+          "confidence": 0.7811
+        },
+        "instability_int": {
+          "value": "29",
+          "confidence": 0.9467
+        },
+        "instability_dec": {
+          "value": "98",
+          "confidence": 0.7366
+        },
+        "volume_int": {
+          "value": "17",
+          "confidence": 0.9992
+        },
+        "volume_dec": {
+          "value": "12",
+          "confidence": 0.9989
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.9275
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9601
+            },
+            "amount_dec": {
+              "value": "31",
+              "confidence": 0.9955
+            },
+            "quality": {
+              "value": "406",
+              "confidence": 0.9774
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9122
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9994
+            },
+            "amount_dec": {
+              "value": "14",
+              "confidence": 0.9787
+            },
+            "quality": {
+              "value": "403",
+              "confidence": 0.9571
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9227
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9997
+            },
+            "amount_dec": {
+              "value": "57",
+              "confidence": 0.9988
+            },
+            "quality": {
+              "value": "505",
+              "confidence": 0.9687
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.7762
+            },
+            "amount_int": {
+              "value": "57",
+              "confidence": 0.9968
+            },
+            "amount_dec": {
+              "value": "33",
+              "confidence": 0.9988
+            },
+            "quality": {
+              "value": "328",
+              "confidence": 0.9569
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9577
+            },
+            "amount_int": {
+              "value": "30",
+              "confidence": 0.991
+            },
+            "amount_dec": {
+              "value": "64",
+              "confidence": 0.9784
+            },
+            "quality": {
+              "value": "6",
+              "confidence": 0.4073
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2275
+            },
+            "amount_int": {
+              "value": "30",
+              "confidence": 0.991
+            },
+            "amount_dec": {
+              "value": "64",
+              "confidence": 0.9784
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5967
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:53:35",
+      "capture_id": "7f7c8740-9394-4c0a-a023-8b7b6bd98031",
+      "cluster_id": "cac3e5e5-9781-433b-ada5-40e37ab08d34",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "borase",
+          "confidence": 0.7764
+        },
+        "mass": {
+          "value": "1871",
+          "confidence": 0.9843
+        },
+        "resistance": {
+          "value": "31",
+          "confidence": 0.6682
+        },
+        "instability_int": {
+          "value": "6",
+          "confidence": 0.7933
+        },
+        "instability_dec": {
+          "value": "21",
+          "confidence": 0.9318
+        },
+        "volume_int": {
+          "value": "4",
+          "confidence": 0.9975
+        },
+        "volume_dec": {
+          "value": "01",
+          "confidence": 0.9707
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.9342
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9932
+            },
+            "amount_dec": {
+              "value": "07",
+              "confidence": 0.9754
+            },
+            "quality": {
+              "value": "424",
+              "confidence": 0.9906
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9476
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9984
+            },
+            "amount_dec": {
+              "value": "32",
+              "confidence": 0.8786
+            },
+            "quality": {
+              "value": "417",
+              "confidence": 0.9932
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9059
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9931
+            },
+            "amount_dec": {
+              "value": "41",
+              "confidence": 0.9875
+            },
+            "quality": {
+              "value": "590",
+              "confidence": 0.9136
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9525
+            },
+            "amount_int": {
+              "value": "42",
+              "confidence": 0.9938
+            },
+            "amount_dec": {
+              "value": "21",
+              "confidence": 0.9974
+            },
+            "quality": {
+              "value": "252",
+              "confidence": 0.9844
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9393
+            },
+            "amount_int": {
+              "value": "47",
+              "confidence": 0.9935
+            },
+            "amount_dec": {
+              "value": "96",
+              "confidence": 0.8973
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.8479
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2406
+            },
+            "amount_int": {
+              "value": "47",
+              "confidence": 0.9935
+            },
+            "amount_dec": {
+              "value": "96",
+              "confidence": 0.8973
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5592
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:54:30",
+      "capture_id": "26946a36-0f00-4bbf-9ea0-ebc5ac8a2c76",
+      "cluster_id": "cac3e5e5-9781-433b-ada5-40e37ab08d34",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "borase",
+          "confidence": 0.8749
+        },
+        "mass": {
+          "value": "17150",
+          "confidence": 0.9873
+        },
+        "resistance": {
+          "value": "35",
+          "confidence": 0.8308
+        },
+        "instability_int": {
+          "value": "58",
+          "confidence": 0.7591
+        },
+        "instability_dec": {
+          "value": "94",
+          "confidence": 0.8031
+        },
+        "volume_int": {
+          "value": "30",
+          "confidence": 0.9936
+        },
+        "volume_dec": {
+          "value": "25",
+          "confidence": 0.9997
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.8967
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.7842
+            },
+            "amount_dec": {
+              "value": "10",
+              "confidence": 0.9876
+            },
+            "quality": {
+              "value": "442",
+              "confidence": 0.997
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9043
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.811
+            },
+            "amount_dec": {
+              "value": "13",
+              "confidence": 0.934
+            },
+            "quality": {
+              "value": "417",
+              "confidence": 0.9931
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9378
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9972
+            },
+            "amount_dec": {
+              "value": "77",
+              "confidence": 0.9984
+            },
+            "quality": {
+              "value": "535",
+              "confidence": 0.9975
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.8417
+            },
+            "amount_int": {
+              "value": "52",
+              "confidence": 0.9951
+            },
+            "amount_dec": {
+              "value": "48",
+              "confidence": 0.8031
+            },
+            "quality": {
+              "value": "343",
+              "confidence": 0.9979
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9756
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.8832
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2544
+            },
+            "amount_int": {
+              "value": "35",
+              "confidence": 0.9959
+            },
+            "amount_dec": {
+              "value": "50",
+              "confidence": 0.994
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5932
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:57:12",
+      "capture_id": "bab24ac0-f4f5-4aed-ad2d-d51d192612c0",
+      "cluster_id": "d54829f6-4cf6-4afd-bc40-bc7a3199e516",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "borase",
+          "confidence": 0.7623
+        },
+        "mass": {
+          "value": "14876",
+          "confidence": 0.9879
+        },
+        "resistance": {
+          "value": "39",
+          "confidence": 0.6454
+        },
+        "instability_int": {
+          "value": "47",
+          "confidence": 0.9922
+        },
+        "instability_dec": {
+          "value": "51",
+          "confidence": 0.9061
+        },
+        "volume_int": {
+          "value": "22",
+          "confidence": 0.9998
+        },
+        "volume_dec": {
+          "value": "18",
+          "confidence": 0.953
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.9311
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9615
+            },
+            "amount_dec": {
+              "value": "47",
+              "confidence": 0.9956
+            },
+            "quality": {
+              "value": "465",
+              "confidence": 0.991
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9306
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.8394
+            },
+            "amount_dec": {
+              "value": "16",
+              "confidence": 0.9371
+            },
+            "quality": {
+              "value": "415",
+              "confidence": 0.9943
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9255
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9996
+            },
+            "amount_dec": {
+              "value": "69",
+              "confidence": 0.9736
+            },
+            "quality": {
+              "value": "559",
+              "confidence": 0.9703
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9384
+            },
+            "amount_int": {
+              "value": "75",
+              "confidence": 0.9987
+            },
+            "amount_dec": {
+              "value": "73",
+              "confidence": 0.9975
+            },
+            "quality": {
+              "value": "258",
+              "confidence": 0.7892
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9786
+            },
+            "amount_int": {
+              "value": "10",
+              "confidence": 0.9902
+            },
+            "amount_dec": {
+              "value": "93",
+              "confidence": 0.9719
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.7969
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2944
+            },
+            "amount_int": {
+              "value": "10",
+              "confidence": 0.9902
+            },
+            "amount_dec": {
+              "value": "93",
+              "confidence": 0.9719
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6006
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:58:01",
+      "capture_id": "0905db8d-b234-42eb-aa39-78f4ed02e22d",
+      "cluster_id": "d54829f6-4cf6-4afd-bc40-bc7a3199e516",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "borase",
+          "confidence": 0.8536
+        },
+        "mass": {
+          "value": "5338",
+          "confidence": 0.9708
+        },
+        "resistance": {
+          "value": "34",
+          "confidence": 0.8836
+        },
+        "instability_int": {
+          "value": "15",
+          "confidence": 0.9794
+        },
+        "instability_dec": {
+          "value": "01",
+          "confidence": 0.6817
+        },
+        "volume_int": {
+          "value": "9",
+          "confidence": 0.9641
+        },
+        "volume_dec": {
+          "value": "59",
+          "confidence": 0.9168
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.9753
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9994
+            },
+            "amount_dec": {
+              "value": "74",
+              "confidence": 0.9889
+            },
+            "quality": {
+              "value": "451",
+              "confidence": 0.9957
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9628
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9995
+            },
+            "amount_dec": {
+              "value": "47",
+              "confidence": 0.9953
+            },
+            "quality": {
+              "value": "505",
+              "confidence": 0.9611
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9493
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.99
+            },
+            "amount_dec": {
+              "value": "38",
+              "confidence": 0.907
+            },
+            "quality": {
+              "value": "582",
+              "confidence": 0.9635
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.8706
+            },
+            "amount_int": {
+              "value": "60",
+              "confidence": 0.9904
+            },
+            "amount_dec": {
+              "value": "76",
+              "confidence": 0.9963
+            },
+            "quality": {
+              "value": "353",
+              "confidence": 0.9991
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8317
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.6819
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2334
+            },
+            "amount_int": {
+              "value": "29",
+              "confidence": 0.8416
+            },
+            "amount_dec": {
+              "value": "23",
+              "confidence": 0.6648
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5903
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T21:59:42",
+      "capture_id": "93f6c15a-ddb2-48e3-95c9-543d44e57aec",
+      "cluster_id": "8a34bf86-0ff0-4c24-b9ea-874cbfd0b990",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.9869
+        },
+        "mass": {
+          "value": "26517",
+          "confidence": 0.9023
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9306
+        },
+        "instability_int": {
+          "value": "32",
+          "confidence": 0.9989
+        },
+        "instability_dec": {
+          "value": "75",
+          "confidence": 0.962
+        },
+        "volume_int": {
+          "value": "24",
+          "confidence": 0.9958
+        },
+        "volume_dec": {
+          "value": "08",
+          "confidence": 0.9238
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.7762
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9994
+            },
+            "amount_dec": {
+              "value": "17",
+              "confidence": 0.9981
+            },
+            "quality": {
+              "value": "621",
+              "confidence": 0.9975
+            }
+          },
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.7426
+            },
+            "amount_int": {
+              "value": "92",
+              "confidence": 0.9877
+            },
+            "amount_dec": {
+              "value": "37",
+              "confidence": 0.9976
+            },
+            "quality": {
+              "value": "256",
+              "confidence": 0.9964
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8572
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9988
+            },
+            "amount_dec": {
+              "value": "44",
+              "confidence": 0.9735
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9917
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2174
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5872
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2034
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6059
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.1918
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5968
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:00:20",
+      "capture_id": "b36d0332-8bfa-43f7-b116-33b2411ad2b4",
+      "cluster_id": "8a34bf86-0ff0-4c24-b9ea-874cbfd0b990",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.8069
+        },
+        "mass": {
+          "value": "35877",
+          "confidence": 0.9903
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9502
+        },
+        "instability_int": {
+          "value": "42",
+          "confidence": 0.996
+        },
+        "instability_dec": {
+          "value": "63",
+          "confidence": 0.9619
+        },
+        "volume_int": {
+          "value": "40",
+          "confidence": 0.9505
+        },
+        "volume_dec": {
+          "value": "96",
+          "confidence": 0.9684
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9794
+            },
+            "amount_int": {
+              "value": "6",
+              "confidence": 0.9976
+            },
+            "amount_dec": {
+              "value": "74",
+              "confidence": 0.9964
+            },
+            "quality": {
+              "value": "561",
+              "confidence": 0.996
+            }
+          },
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9759
+            },
+            "amount_int": {
+              "value": "67",
+              "confidence": 0.9949
+            },
+            "amount_dec": {
+              "value": "89",
+              "confidence": 0.9282
+            },
+            "quality": {
+              "value": "306",
+              "confidence": 0.9297
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9632
+            },
+            "amount_int": {
+              "value": "25",
+              "confidence": 0.9997
+            },
+            "amount_dec": {
+              "value": "35",
+              "confidence": 0.9908
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9951
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2186
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5797
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2081
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5988
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.1898
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6004
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:00:51",
+      "capture_id": "46e883a9-27d8-40c7-9742-8679a0a4221b",
+      "cluster_id": "8a34bf86-0ff0-4c24-b9ea-874cbfd0b990",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.8493
+        },
+        "mass": {
+          "value": "4118",
+          "confidence": 0.9807
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9301
+        },
+        "instability_int": {
+          "value": "4",
+          "confidence": 0.9706
+        },
+        "instability_dec": {
+          "value": "56",
+          "confidence": 0.8681
+        },
+        "volume_int": {
+          "value": "6",
+          "confidence": 0.9943
+        },
+        "volume_dec": {
+          "value": "34",
+          "confidence": 0.989
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.8157
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9961
+            },
+            "amount_dec": {
+              "value": "34",
+              "confidence": 0.9274
+            },
+            "quality": {
+              "value": "627",
+              "confidence": 0.882
+            }
+          },
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.8091
+            },
+            "amount_int": {
+              "value": "40",
+              "confidence": 0.8354
+            },
+            "amount_dec": {
+              "value": "21",
+              "confidence": 0.9875
+            },
+            "quality": {
+              "value": "247",
+              "confidence": 0.9304
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9699
+            },
+            "amount_int": {
+              "value": "48",
+              "confidence": 0.7672
+            },
+            "amount_dec": {
+              "value": "44",
+              "confidence": 0.9644
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9081
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2193
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5088
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.166
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5731
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.1744
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5691
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:01:32",
+      "capture_id": "b81d0ae3-73b1-457d-9114-f3ff431e876c",
+      "cluster_id": "8a34bf86-0ff0-4c24-b9ea-874cbfd0b990",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.9156
+        },
+        "mass": {
+          "value": "15838",
+          "confidence": 0.9704
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9924
+        },
+        "instability_int": {
+          "value": "18",
+          "confidence": 0.9804
+        },
+        "instability_dec": {
+          "value": "93",
+          "confidence": 0.9834
+        },
+        "volume_int": {
+          "value": "17",
+          "confidence": 0.9984
+        },
+        "volume_dec": {
+          "value": "50",
+          "confidence": 0.9946
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9054
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9917
+            },
+            "amount_dec": {
+              "value": "43",
+              "confidence": 0.9895
+            },
+            "quality": {
+              "value": "629",
+              "confidence": 0.9911
+            }
+          },
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9338
+            },
+            "amount_int": {
+              "value": "73",
+              "confidence": 0.9954
+            },
+            "amount_dec": {
+              "value": "14",
+              "confidence": 0.9345
+            },
+            "quality": {
+              "value": "344",
+              "confidence": 0.9806
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8864
+            },
+            "amount_int": {
+              "value": "22",
+              "confidence": 0.9975
+            },
+            "amount_dec": {
+              "value": "42",
+              "confidence": 0.9919
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9954
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2437
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5306
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.1554
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5743
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.1422
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5802
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:02:39",
+      "capture_id": "0f30767e-1a74-4250-bc74-8a0040e57b8a",
+      "cluster_id": "b4ba5821-a2cd-40c0-a87b-43154a926d34",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.9105
+        },
+        "mass": {
+          "value": "8524",
+          "confidence": 0.9712
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.6723
+        },
+        "instability_int": {
+          "value": "35",
+          "confidence": 0.9995
+        },
+        "instability_dec": {
+          "value": "44",
+          "confidence": 0.8305
+        },
+        "volume_int": {
+          "value": "30",
+          "confidence": 0.8884
+        },
+        "volume_dec": {
+          "value": "88",
+          "confidence": 0.9277
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.9193
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9959
+            },
+            "amount_dec": {
+              "value": "07",
+              "confidence": 0.9745
+            },
+            "quality": {
+              "value": "481",
+              "confidence": 0.9535
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.9154
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.997
+            },
+            "amount_dec": {
+              "value": "78",
+              "confidence": 0.9587
+            },
+            "quality": {
+              "value": "506",
+              "confidence": 0.7979
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9034
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9908
+            },
+            "amount_dec": {
+              "value": "35",
+              "confidence": 0.998
+            },
+            "quality": {
+              "value": "692",
+              "confidence": 0.9726
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9171
+            },
+            "amount_int": {
+              "value": "44",
+              "confidence": 0.9406
+            },
+            "amount_dec": {
+              "value": "60",
+              "confidence": 0.9884
+            },
+            "quality": {
+              "value": "251",
+              "confidence": 0.9937
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9448
+            },
+            "amount_int": {
+              "value": "44",
+              "confidence": 0.9622
+            },
+            "amount_dec": {
+              "value": "18",
+              "confidence": 0.9189
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.8725
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.221
+            },
+            "amount_int": {
+              "value": "44",
+              "confidence": 0.9911
+            },
+            "amount_dec": {
+              "value": "18",
+              "confidence": 0.9509
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.601
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:03:27",
+      "capture_id": "b89fb95a-4106-41f5-b28d-faf978b7faac",
+      "cluster_id": "b4ba5821-a2cd-40c0-a87b-43154a926d34",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.9418
+        },
+        "mass": {
+          "value": "15278",
+          "confidence": 0.9787
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9788
+        },
+        "instability_int": {
+          "value": "59",
+          "confidence": 0.0
+        },
+        "instability_dec": {
+          "value": "49",
+          "confidence": 0.0
+        },
+        "volume_int": {
+          "value": "50",
+          "confidence": 0.9929
+        },
+        "volume_dec": {
+          "value": "69",
+          "confidence": 0.9839
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.9576
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9951
+            },
+            "amount_dec": {
+              "value": "89",
+              "confidence": 0.8438
+            },
+            "quality": {
+              "value": "481",
+              "confidence": 0.9596
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.9467
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9999
+            },
+            "amount_dec": {
+              "value": "42",
+              "confidence": 0.992
+            },
+            "quality": {
+              "value": "559",
+              "confidence": 0.7888
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9683
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9993
+            },
+            "amount_dec": {
+              "value": "86",
+              "confidence": 0.8724
+            },
+            "quality": {
+              "value": "573",
+              "confidence": 0.9968
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9634
+            },
+            "amount_int": {
+              "value": "54",
+              "confidence": 0.987
+            },
+            "amount_dec": {
+              "value": "99",
+              "confidence": 0.9362
+            },
+            "quality": {
+              "value": "255",
+              "confidence": 0.9946
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9634
+            },
+            "amount_int": {
+              "value": "32",
+              "confidence": 0.9954
+            },
+            "amount_dec": {
+              "value": "81",
+              "confidence": 0.9183
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.8778
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2212
+            },
+            "amount_int": {
+              "value": "32",
+              "confidence": 0.9954
+            },
+            "amount_dec": {
+              "value": "81",
+              "confidence": 0.9183
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.595
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:04:30",
+      "capture_id": "dc88e70c-8e36-4a9c-a5e1-ec144ec47791",
+      "cluster_id": "b4ba5821-a2cd-40c0-a87b-43154a926d34",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.9853
+        },
+        "mass": {
+          "value": "11589",
+          "confidence": 0.9614
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9693
+        },
+        "instability_int": {
+          "value": "54",
+          "confidence": 0.0
+        },
+        "instability_dec": {
+          "value": "44",
+          "confidence": 0.0
+        },
+        "volume_int": {
+          "value": "34",
+          "confidence": 0.9898
+        },
+        "volume_dec": {
+          "value": "69",
+          "confidence": 0.9066
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.8212
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9997
+            },
+            "amount_dec": {
+              "value": "06",
+              "confidence": 0.9886
+            },
+            "quality": {
+              "value": "411",
+              "confidence": 0.9968
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.8526
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9931
+            },
+            "amount_dec": {
+              "value": "65",
+              "confidence": 0.9182
+            },
+            "quality": {
+              "value": "395",
+              "confidence": 0.9725
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9045
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9922
+            },
+            "amount_dec": {
+              "value": "79",
+              "confidence": 0.982
+            },
+            "quality": {
+              "value": "638",
+              "confidence": 0.841
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.9189
+            },
+            "amount_int": {
+              "value": "69",
+              "confidence": 0.9733
+            },
+            "amount_dec": {
+              "value": "44",
+              "confidence": 0.9873
+            },
+            "quality": {
+              "value": "323",
+              "confidence": 0.9984
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8701
+            },
+            "amount_int": {
+              "value": "20",
+              "confidence": 0.9969
+            },
+            "amount_dec": {
+              "value": "03",
+              "confidence": 0.9805
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.713
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2875
+            },
+            "amount_int": {
+              "value": "20",
+              "confidence": 0.9969
+            },
+            "amount_dec": {
+              "value": "03",
+              "confidence": 0.9805
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5972
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:05:23",
+      "capture_id": "cbaa205f-ee29-4cee-bd38-6d1b2f4523ad",
+      "cluster_id": "b4ba5821-a2cd-40c0-a87b-43154a926d34",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "quartz",
+          "confidence": 0.9339
+        },
+        "mass": {
+          "value": "369",
+          "confidence": 0.9731
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9781
+        },
+        "instability_int": {
+          "value": "1",
+          "confidence": 0.9964
+        },
+        "instability_dec": {
+          "value": "66",
+          "confidence": 0.8584
+        },
+        "volume_int": {
+          "value": "1",
+          "confidence": 0.9959
+        },
+        "volume_dec": {
+          "value": "31",
+          "confidence": 0.9515
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "silicon",
+              "confidence": 0.8804
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9959
+            },
+            "amount_dec": {
+              "value": "22",
+              "confidence": 0.9997
+            },
+            "quality": {
+              "value": "436",
+              "confidence": 0.9593
+            }
+          },
+          {
+            "name": {
+              "value": "hephaestanite",
+              "confidence": 0.8768
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9935
+            },
+            "amount_dec": {
+              "value": "73",
+              "confidence": 0.9898
+            },
+            "quality": {
+              "value": "413",
+              "confidence": 0.9222
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.8895
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9998
+            },
+            "amount_dec": {
+              "value": "10",
+              "confidence": 0.9921
+            },
+            "quality": {
+              "value": "502",
+              "confidence": 0.9917
+            }
+          },
+          {
+            "name": {
+              "value": "quartz",
+              "confidence": 0.947
+            },
+            "amount_int": {
+              "value": "44",
+              "confidence": 0.9928
+            },
+            "amount_dec": {
+              "value": "88",
+              "confidence": 0.9484
+            },
+            "quality": {
+              "value": "295",
+              "confidence": 0.9145
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9414
+            },
+            "amount_int": {
+              "value": "42",
+              "confidence": 0.9975
+            },
+            "amount_dec": {
+              "value": "04",
+              "confidence": 0.9594
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.622
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2319
+            },
+            "amount_int": {
+              "value": "42",
+              "confidence": 0.9972
+            },
+            "amount_dec": {
+              "value": "04",
+              "confidence": 0.9068
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6056
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:07:00",
+      "capture_id": "9029bdd4-bbc9-4e67-b032-d3216eb2e1ca",
+      "cluster_id": "bf585e6f-716f-4795-93ce-d508a4ccf596",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.9212
+        },
+        "mass": {
+          "value": "18091",
+          "confidence": 0.9699
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.978
+        },
+        "instability_int": {
+          "value": "20",
+          "confidence": 0.968
+        },
+        "instability_dec": {
+          "value": "55",
+          "confidence": 0.9976
+        },
+        "volume_int": {
+          "value": "25",
+          "confidence": 0.0
+        },
+        "volume_dec": {
+          "value": "29",
+          "confidence": 0.0
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9956
+            },
+            "amount_dec": {
+              "value": "83",
+              "confidence": 0.9552
+            },
+            "quality": {
+              "value": "",
+              "confidence": 0.0
+            }
+          },
+          {
+            "name": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "",
+              "confidence": 0.0
+            }
+          },
+          {
+            "name": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_int": {
+              "value": "41",
+              "confidence": 0.9967
+            },
+            "amount_dec": {
+              "value": "70",
+              "confidence": 0.9935
+            },
+            "quality": {
+              "value": "",
+              "confidence": 0.0
+            }
+          },
+          {
+            "name": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "",
+              "confidence": 0.0
+            }
+          },
+          {
+            "name": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "",
+              "confidence": 0.0
+            }
+          },
+          {
+            "name": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "",
+              "confidence": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:07:57",
+      "capture_id": "e3efb7f4-ace3-4a4a-b489-07e8c3c3470b",
+      "cluster_id": "bf585e6f-716f-4795-93ce-d508a4ccf596",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.9078
+        },
+        "mass": {
+          "value": "6838",
+          "confidence": 0.8952
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9388
+        },
+        "instability_int": {
+          "value": "8",
+          "confidence": 0.5762
+        },
+        "instability_dec": {
+          "value": "19",
+          "confidence": 0.6709
+        },
+        "volume_int": {
+          "value": "7",
+          "confidence": 0.9994
+        },
+        "volume_dec": {
+          "value": "49",
+          "confidence": 0.9585
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9754
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.8996
+            },
+            "amount_dec": {
+              "value": "91",
+              "confidence": 0.985
+            },
+            "quality": {
+              "value": "510",
+              "confidence": 0.8042
+            }
+          },
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9769
+            },
+            "amount_int": {
+              "value": "74",
+              "confidence": 0.9907
+            },
+            "amount_dec": {
+              "value": "50",
+              "confidence": 0.9874
+            },
+            "quality": {
+              "value": "268",
+              "confidence": 0.9355
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9801
+            },
+            "amount_int": {
+              "value": "21",
+              "confidence": 0.999
+            },
+            "amount_dec": {
+              "value": "57",
+              "confidence": 0.9985
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9965
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2547
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5866
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2588
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5953
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.22
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.6045
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:08:30",
+      "capture_id": "f303291c-87b0-45b4-99ce-f84cc1c76c87",
+      "cluster_id": "bf585e6f-716f-4795-93ce-d508a4ccf596",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.7915
+        },
+        "mass": {
+          "value": "10311",
+          "confidence": 0.9888
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.6001
+        },
+        "instability_int": {
+          "value": "11",
+          "confidence": 0.9991
+        },
+        "instability_dec": {
+          "value": "64",
+          "confidence": 0.9333
+        },
+        "volume_int": {
+          "value": "14",
+          "confidence": 0.9934
+        },
+        "volume_dec": {
+          "value": "77",
+          "confidence": 0.9733
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9023
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9994
+            },
+            "amount_dec": {
+              "value": "14",
+              "confidence": 0.9226
+            },
+            "quality": {
+              "value": "519",
+              "confidence": 0.9858
+            }
+          },
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.9415
+            },
+            "amount_int": {
+              "value": "51",
+              "confidence": 0.9686
+            },
+            "amount_dec": {
+              "value": "37",
+              "confidence": 0.9537
+            },
+            "quality": {
+              "value": "301",
+              "confidence": 0.9657
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9327
+            },
+            "amount_int": {
+              "value": "43",
+              "confidence": 0.9918
+            },
+            "amount_dec": {
+              "value": "47",
+              "confidence": 0.993
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9937
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2576
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.589
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.1844
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5841
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.1988
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5866
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T22:09:03",
+      "capture_id": "567a1297-ec3d-4164-b85a-47cc1e58ee10",
+      "cluster_id": "bf585e6f-716f-4795-93ce-d508a4ccf596",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Bloom",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "iron",
+          "confidence": 0.8855
+        },
+        "mass": {
+          "value": "6301",
+          "confidence": 0.993
+        },
+        "resistance": {
+          "value": "0",
+          "confidence": 0.9011
+        },
+        "instability_int": {
+          "value": "7",
+          "confidence": 0.9977
+        },
+        "instability_dec": {
+          "value": "47",
+          "confidence": 0.9875
+        },
+        "volume_int": {
+          "value": "7",
+          "confidence": 0.9988
+        },
+        "volume_dec": {
+          "value": "27",
+          "confidence": 0.9989
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.8502
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.97
+            },
+            "amount_dec": {
+              "value": "81",
+              "confidence": 0.8413
+            },
+            "quality": {
+              "value": "638",
+              "confidence": 0.9486
+            }
+          },
+          {
+            "name": {
+              "value": "iron",
+              "confidence": 0.7687
+            },
+            "amount_int": {
+              "value": "68",
+              "confidence": 0.9616
+            },
+            "amount_dec": {
+              "value": "83",
+              "confidence": 0.9795
+            },
+            "quality": {
+              "value": "249",
+              "confidence": 0.8869
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8177
+            },
+            "amount_int": {
+              "value": "26",
+              "confidence": 0.9964
+            },
+            "amount_dec": {
+              "value": "35",
+              "confidence": 0.993
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.9863
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2536
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5076
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.249
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5746
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2323
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5728
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
