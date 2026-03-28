@@ -1,0 +1,464 @@
+{
+  "session_id": "f952ad3d",
+  "started_at": "2026-03-28T22:55:16",
+  "tool_version": "rock_capture_cnn_0.3",
+  "source": {
+    "user": "Mort13",
+    "org": "RR"
+  },
+  "captures": [
+    {
+      "timestamp": "2026-03-28T22:59:53",
+      "capture_id": "30c52ee9-9336-4bb2-98f4-a4b863450d5e",
+      "cluster_id": "d00c0f97-70d8-4459-af7b-448662d4efac",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Ignis",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "gold",
+          "confidence": 0.6014
+        },
+        "mass": {
+          "value": "28449",
+          "confidence": 0.976
+        },
+        "resistance": {
+          "value": "53",
+          "confidence": 0.6652
+        },
+        "instability_int": {
+          "value": "160",
+          "confidence": 0.9293
+        },
+        "instability_dec": {
+          "value": "45",
+          "confidence": 0.7181
+        },
+        "volume_int": {
+          "value": "11",
+          "confidence": 0.9962
+        },
+        "volume_dec": {
+          "value": "99",
+          "confidence": 0.9082
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.9479
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9975
+            },
+            "amount_dec": {
+              "value": "18",
+              "confidence": 0.9438
+            },
+            "quality": {
+              "value": "410",
+              "confidence": 0.9908
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9115
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9973
+            },
+            "amount_dec": {
+              "value": "02",
+              "confidence": 0.894
+            },
+            "quality": {
+              "value": "540",
+              "confidence": 0.9894
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.8846
+            },
+            "amount_int": {
+              "value": "78",
+              "confidence": 0.9234
+            },
+            "amount_dec": {
+              "value": "48",
+              "confidence": 0.8413
+            },
+            "quality": {
+              "value": "269",
+              "confidence": 0.9873
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.8491
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9756
+            },
+            "amount_dec": {
+              "value": "23",
+              "confidence": 0.988
+            },
+            "quality": {
+              "value": "402",
+              "confidence": 0.9924
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.7805
+            },
+            "amount_int": {
+              "value": "10",
+              "confidence": 0.9891
+            },
+            "amount_dec": {
+              "value": "06",
+              "confidence": 0.9823
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.779
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2138
+            },
+            "amount_int": {
+              "value": "10",
+              "confidence": 0.9944
+            },
+            "amount_dec": {
+              "value": "06",
+              "confidence": 0.9824
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5809
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T23:00:55",
+      "capture_id": "f8548b2a-cf06-47f4-8b0d-a0397e9b2cdf",
+      "cluster_id": "d00c0f97-70d8-4459-af7b-448662d4efac",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Ignis",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "gold",
+          "confidence": 0.5766
+        },
+        "mass": {
+          "value": "84660",
+          "confidence": 0.9784
+        },
+        "resistance": {
+          "value": "48",
+          "confidence": 0.5991
+        },
+        "instability_int": {
+          "value": "475",
+          "confidence": 0.9984
+        },
+        "instability_dec": {
+          "value": "06",
+          "confidence": 0.9486
+        },
+        "volume_int": {
+          "value": "43",
+          "confidence": 0.9924
+        },
+        "volume_dec": {
+          "value": "63",
+          "confidence": 0.9278
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.8912
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9955
+            },
+            "amount_dec": {
+              "value": "33",
+              "confidence": 0.998
+            },
+            "quality": {
+              "value": "620",
+              "confidence": 0.9544
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.9663
+            },
+            "amount_int": {
+              "value": "5",
+              "confidence": 0.9777
+            },
+            "amount_dec": {
+              "value": "60",
+              "confidence": 0.9654
+            },
+            "quality": {
+              "value": "524",
+              "confidence": 0.9786
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.987
+            },
+            "amount_int": {
+              "value": "61",
+              "confidence": 0.9946
+            },
+            "amount_dec": {
+              "value": "57",
+              "confidence": 0.9987
+            },
+            "quality": {
+              "value": "280",
+              "confidence": 0.85
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.9631
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9995
+            },
+            "amount_dec": {
+              "value": "20",
+              "confidence": 0.9928
+            },
+            "quality": {
+              "value": "421",
+              "confidence": 0.9936
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.8724
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.8652
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2538
+            },
+            "amount_int": {
+              "value": "27",
+              "confidence": 0.9445
+            },
+            "amount_dec": {
+              "value": "27",
+              "confidence": 0.9729
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5793
+            }
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-03-28T23:02:02",
+      "capture_id": "6086a6df-0508-4e98-b90b-8a84587403fe",
+      "cluster_id": "d00c0f97-70d8-4459-af7b-448662d4efac",
+      "location": {
+        "system": "Pyro",
+        "gravity_well": "Ignis",
+        "region": null,
+        "place": null
+      },
+      "scan": {
+        "deposit_name": {
+          "value": "gold",
+          "confidence": 0.5568
+        },
+        "mass": {
+          "value": "909",
+          "confidence": 0.567
+        },
+        "resistance": {
+          "value": "44",
+          "confidence": 0.7354
+        },
+        "instability_int": {
+          "value": "5",
+          "confidence": 0.9996
+        },
+        "instability_dec": {
+          "value": "15",
+          "confidence": 0.9955
+        },
+        "volume_int": {
+          "value": "0",
+          "confidence": 0.73
+        },
+        "volume_dec": {
+          "value": "59",
+          "confidence": 0.7523
+        },
+        "composition": [
+          {
+            "name": {
+              "value": "bexalite",
+              "confidence": 0.8497
+            },
+            "amount_int": {
+              "value": "4",
+              "confidence": 0.9885
+            },
+            "amount_dec": {
+              "value": "85",
+              "confidence": 0.9051
+            },
+            "quality": {
+              "value": "477",
+              "confidence": 0.9902
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.8228
+            },
+            "amount_int": {
+              "value": "3",
+              "confidence": 0.9981
+            },
+            "amount_dec": {
+              "value": "45",
+              "confidence": 0.993
+            },
+            "quality": {
+              "value": "587",
+              "confidence": 0.9434
+            }
+          },
+          {
+            "name": {
+              "value": "gold",
+              "confidence": 0.7703
+            },
+            "amount_int": {
+              "value": "47",
+              "confidence": 0.9943
+            },
+            "amount_dec": {
+              "value": "93",
+              "confidence": 0.9467
+            },
+            "quality": {
+              "value": "313",
+              "confidence": 0.9963
+            }
+          },
+          {
+            "name": {
+              "value": "borase",
+              "confidence": 0.8039
+            },
+            "amount_int": {
+              "value": "2",
+              "confidence": 0.9998
+            },
+            "amount_dec": {
+              "value": "14",
+              "confidence": 0.9941
+            },
+            "quality": {
+              "value": "420",
+              "confidence": 0.9873
+            }
+          },
+          {
+            "name": {
+              "value": "inert_materials",
+              "confidence": 0.9688
+            },
+            "amount_int": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "amount_dec": {
+              "value": "",
+              "confidence": 0.0
+            },
+            "quality": {
+              "value": "0",
+              "confidence": 0.8205
+            }
+          },
+          {
+            "name": {
+              "value": "none",
+              "confidence": 0.2323
+            },
+            "amount_int": {
+              "value": "41",
+              "confidence": 0.9434
+            },
+            "amount_dec": {
+              "value": "24",
+              "confidence": 0.4591
+            },
+            "quality": {
+              "value": "111",
+              "confidence": 0.5874
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
