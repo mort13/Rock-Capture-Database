@@ -1,0 +1,16 @@
+﻿name: Notify Dashboard of Update
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger dashboard submodule update
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.DASHBOARD_PAT }}
+          repository: mort13/Rock-Capture-Dashboard
+          event-type: database-updated
