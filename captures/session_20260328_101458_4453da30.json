@@ -446,11 +446,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "11",
@@ -597,11 +597,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -614,7 +614,7 @@
     {
       "timestamp": "2026-03-28T10:23:42",
       "capture_id": "3f577f1a-a60d-4535-a50c-03897af977bc",
-      "cluster_id": "bdb2b5cc-b787-4beb-95a8-c50b5f7f24f8",
+      "cluster_id": "441e950a-a0e2-4a36-939c-832e829258b1",
       "location": {
         "system": "Pyro",
         "gravity_well": "Bloom",
@@ -730,11 +730,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -748,11 +748,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -765,7 +765,7 @@
     {
       "timestamp": "2026-03-28T10:25:24",
       "capture_id": "9c7be751-27e4-4ba6-b7b7-cb7d6989a9e7",
-      "cluster_id": "bdb2b5cc-b787-4beb-95a8-c50b5f7f24f8",
+      "cluster_id": "441e950a-a0e2-4a36-939c-832e829258b1",
       "location": {
         "system": "Pyro",
         "gravity_well": "Bloom",
@@ -881,11 +881,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -899,11 +899,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1014,11 +1014,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "115",
@@ -1032,11 +1032,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1050,11 +1050,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1165,11 +1165,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "661",
@@ -1183,11 +1183,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1201,11 +1201,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1316,11 +1316,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "666",
@@ -1334,11 +1334,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1352,11 +1352,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "15",
@@ -1467,11 +1467,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "666",
@@ -1485,11 +1485,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1503,11 +1503,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1618,11 +1618,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "56",
@@ -1636,11 +1636,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1654,11 +1654,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "116",
@@ -1693,7 +1693,7 @@
         },
         "instability_int": {
           "value": "18",
-          "confidence": 0.0
+          "confidence": 0
         },
         "instability_dec": {
           "value": "89",
@@ -1805,11 +1805,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -1938,7 +1938,7 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "7",
@@ -1956,11 +1956,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -2035,11 +2035,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "263",
@@ -2071,11 +2071,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "6",
@@ -2089,11 +2089,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "161",
@@ -2107,11 +2107,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -2222,11 +2222,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "561",
@@ -2240,11 +2240,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "11",
@@ -2258,7 +2258,7 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "61",
@@ -2373,11 +2373,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "656",
@@ -2391,11 +2391,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -2409,11 +2409,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -2524,11 +2524,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "666",
@@ -2542,11 +2542,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "611",
@@ -2560,11 +2560,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -2711,11 +2711,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -2862,11 +2862,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -2901,11 +2901,11 @@
         },
         "instability_int": {
           "value": "0",
-          "confidence": 0.0
+          "confidence": 0
         },
         "instability_dec": {
           "value": "84",
-          "confidence": 0.0
+          "confidence": 0
         },
         "volume_int": {
           "value": "0",
@@ -3013,11 +3013,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -3052,11 +3052,11 @@
         },
         "instability_int": {
           "value": "0",
-          "confidence": 0.0
+          "confidence": 0
         },
         "instability_dec": {
           "value": "67",
-          "confidence": 0.0
+          "confidence": 0
         },
         "volume_int": {
           "value": "0",
@@ -3164,11 +3164,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -3297,11 +3297,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "0",
@@ -3315,11 +3315,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -3466,11 +3466,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -3617,11 +3617,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
@@ -3768,11 +3768,11 @@
             },
             "amount_int": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "amount_dec": {
               "value": "",
-              "confidence": 0.0
+              "confidence": 0
             },
             "quality": {
               "value": "111",
